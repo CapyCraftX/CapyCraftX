@@ -2237,3 +2237,12 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Jan2025 20:28:13.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Zombie
 [15Jan2025 20:28:51.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the time to 1000]
 [15Jan2025 20:28:53.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[15Jan2025 20:30:53.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Disconnected
+[15Jan2025 20:30:53.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[15Jan2025 20:35:49.751] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69cd5802[id=<null>,name=aw,properties={},legacy=false] (/127.53.83.87:52811) lost connection: Disconnected
+[15Jan2025 20:37:27.849] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@457122[id=<null>,name=aw,properties={},legacy=false] (/127.53.83.87:58075) lost connection: Disconnected
+[15Jan2025 20:39:00.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.53.83.87:60759] logged in with entity id 1065 at (-73.5, 75.0, 58.5)
+[15Jan2025 20:39:00.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[15Jan2025 20:39:00.390] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[15Jan2025 20:39:00.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Ice and Fire]
+[15Jan2025 20:41:04.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Mine? Mine? Mine?]
