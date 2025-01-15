@@ -2395,3 +2395,12 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Jan2025 22:21:38.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [This Must be a Sign!]
 [15Jan2025 22:21:40.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by aw
 [15Jan2025 22:21:54.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Hot Stuff]
+[15Jan2025 22:22:46.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Pic-A-Nic Basket?]
+[15Jan2025 22:24:03.321] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jan2025 22:24:03.326] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jan2025 22:24:24.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Crops of the Wild]
+[15Jan2025 22:24:45.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Tools of the Trade]
+[15Jan2025 22:24:57.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Quaint Scribe]
+[15Jan2025 22:26:10.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Book of Monsters]
+[15Jan2025 22:29:36.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[15Jan2025 22:29:36.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
