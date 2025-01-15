@@ -91,7 +91,9 @@
     "criteria": {
       "minecraft:pillager": "2025-01-15 20:54:32 +0000",
       "minecraft:skeleton": "2025-01-15 01:11:00 +0000",
-      "minecraft:vindicator": "2025-01-15 20:55:13 +0000"
+      "minecraft:vindicator": "2025-01-15 20:55:13 +0000",
+      "minecraft:spider": "2025-01-15 21:17:13 +0000",
+      "minecraft:zombie": "2025-01-15 21:01:48 +0000"
     },
     "done": false
   },
@@ -104,6 +106,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-15 20:52:21 +0000",
+      "porkchop": "2025-01-15 21:11:22 +0000",
+      "apple": "2025-01-15 20:58:02 +0000",
+      "mutton": "2025-01-15 21:02:15 +0000",
       "golden_apple": "2025-01-15 01:11:39 +0000",
       "melon_slice": "2025-01-15 20:55:21 +0000"
     },
@@ -115,17 +120,41 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-15 21:08:59 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-01-15 20:55:19 +0000"
     },
     "done": false
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-15 21:15:28 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-01-15 21:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-15 20:52:34 +0000"
     },
     "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_short": "2025-01-15 21:19:20 +0000"
+    },
+    "done": false
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -139,9 +168,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-15 21:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-15 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-15 21:21:14 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2025-01-15 21:15:23 +0000"
     },
     "done": true
   },
@@ -154,9 +201,45 @@
     },
     "done": false
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-15 20:59:42 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-01-15 20:51:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_shortsword": "2025-01-15 21:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-15 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-15 21:07:40 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2025-01-15 21:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-15 20:59:15 +0000"
     },
     "done": true
   },

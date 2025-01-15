@@ -2290,3 +2290,38 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Jan2025 20:59:54.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Stone Age]
 [15Jan2025 21:00:24.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Getting an Upgrade]
 [15Jan2025 21:00:59.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Night Vision to xDogSaur]
+[15Jan2025 21:01:48.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by Skeleton
+[15Jan2025 21:02:37.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Take Aim]
+[15Jan2025 21:02:43.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was shot by Skeleton
+[15Jan2025 21:02:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to -476.500000, 15.500000, 125.500000]
+[15Jan2025 21:03:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Night Vision to xDogSaur]
+[15Jan2025 21:03:23.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Instant Health to xDogSaur]
+[15Jan2025 21:04:04.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Acquire Hardware]
+[15Jan2025 21:05:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Not Today, Thank You]
+[15Jan2025 21:06:51.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was blown up by Creeper
+[15Jan2025 21:08:59.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Suit Up]
+[15Jan2025 21:10:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Sweet Dreams]
+[15Jan2025 21:10:51.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Acquire Hardware]
+[15Jan2025 21:11:18.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [False Water]
+[15Jan2025 21:13:58.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Not Today, Thank You]
+[15Jan2025 21:14:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw was slain by Skeleton
+[15Jan2025 21:15:14.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Suit Up]
+[15Jan2025 21:15:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Full Moon in a Pocket]
+[15Jan2025 21:15:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Not Today, Thank You]
+[15Jan2025 21:17:03.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 6 [Golden Apple] to xDogSaur]
+[15Jan2025 21:18:54.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Isn't It Iron Pick]
+[15Jan2025 21:19:20.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [A... Fake?]
+[15Jan2025 21:19:28.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Skeleton
+[15Jan2025 21:19:56.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Skeleton
+[15Jan2025 21:19:59.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to -598.500000, -16.500000, 115.500000]
+[15Jan2025 21:20:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Skeleton
+[15Jan2025 21:20:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to -596.500000, -16.500000, 115.500000]
+[15Jan2025 21:20:25.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Diamonds!]
+[15Jan2025 21:20:30.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Skeleton
+[15Jan2025 21:21:00.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Full Moon in a Pocket]
+[15Jan2025 21:21:05.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Diamond] to xDogSaur]
+[15Jan2025 21:21:12.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Skeleton
+[15Jan2025 21:21:14.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Cover Me with Diamonds]
+[15Jan2025 21:21:20.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 0.10201914644994758,-10.694013589847941,1.1132066870934523
+[15Jan2025 21:21:25.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [False Water]
+[15Jan2025 21:21:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Night Vision to xDogSaur]
