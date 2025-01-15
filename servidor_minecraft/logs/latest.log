@@ -2439,3 +2439,157 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Jan2025 23:00:04.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> r
 [15Jan2025 23:02:03.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was turned into gorgonzola by Gorgon
 [15Jan2025 23:03:01.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Luzbel1t0]
+[15Jan2025 23:04:20.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> 7kill afarfa
+[15Jan2025 23:05:04.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [The Parrots and the Bats]
+[15Jan2025 23:05:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Millstone] to xDogSaur]
+[15Jan2025 23:07:21.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by xDogSaur
+[15Jan2025 23:07:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was smitten by aw
+[15Jan2025 23:07:34.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to -710.500000, 63.500000, 646.500000]
+[15Jan2025 23:08:22.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Monster Hunter]
+[15Jan2025 23:09:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Voluntary Exile]
+[15Jan2025 23:09:33.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Acquire Hardware]
+[15Jan2025 23:09:39.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Sea Serpent
+[15Jan2025 23:10:06.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Magery]
+[15Jan2025 23:10:11.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by xDogSaur
+[15Jan2025 23:10:18.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Hippie Smell]
+[15Jan2025 23:11:18.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[15Jan2025 23:11:28.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Diamond Chestplate] to xDogSaur]
+[15Jan2025 23:12:28.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Once Upon a Cave]
+[15Jan2025 23:14:26.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -0.38340089197441785,0.0,10.320868239582296
+[15Jan2025 23:14:33.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -2.3105161776772434,0.0,10.127151109296847
+[15Jan2025 23:14:33.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -2.405578090480958,0.0,10.5155896266009
+[15Jan2025 23:14:33.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -2.500823253482565,0.0,10.903992975160122
+[15Jan2025 23:14:33.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -2.596237062291607,0.0,11.292363744252611
+[15Jan2025 23:14:33.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -2.6918063729569894,0.0,11.680704260503148
+[15Jan2025 23:14:33.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -2.7875193559230524,0.0,12.069016617874126
+[15Jan2025 23:14:33.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -2.8833616439563343,0.0,12.457303632254138
+[15Jan2025 23:14:33.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -2.9793240271806667,0.0,12.84556691034561
+[15Jan2025 23:14:33.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.075394496074125,0.0,13.233808825778056
+[15Jan2025 23:14:33.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.1715659627008677,0.0,13.622030583495189
+[15Jan2025 23:14:33.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.2678283272852013,0.0,14.010234199269007
+[15Jan2025 23:14:33.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.364176219731519,0.0,14.398420555971825
+[15Jan2025 23:14:33.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.4606010872515753,0.0,14.786591379511037
+[15Jan2025 23:14:33.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.5570952323362235,0.0,15.174748223203437
+[15Jan2025 23:14:33.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.653655447861013,0.0,15.562891553711438
+[15Jan2025 23:14:33.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.750275126780309,0.0,15.951022722353855
+[15Jan2025 23:14:33.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.846948322753292,0.0,16.339142945317462
+[15Jan2025 23:14:33.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -3.9436696840733134,0.0,16.727253317170494
+[15Jan2025 23:14:33.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.04043439420451,0.0,17.115354823024177
+[15Jan2025 23:14:33.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.13724183796711,0.0,17.503447418156043
+[15Jan2025 23:14:33.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.234087741996916,0.0,17.891531993638523
+[15Jan2025 23:14:33.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.3309682602663315,0.0,18.27960935143676
+[15Jan2025 23:14:33.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.42787993135056,0.0,18.667680213319386
+[15Jan2025 23:14:33.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.5248196399673475,0.0,19.055745228878095
+[15Jan2025 23:14:33.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.621784582362807,0.0,19.443804982745405
+[15Jan2025 23:14:33.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.71877223515844,0.0,19.83186000109049
+[15Jan2025 23:14:33.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.815780327313689,0.0,20.21991075746587
+[15Jan2025 23:14:33.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -4.912806814892122,0.0,20.607957678068487
+[15Jan2025 23:14:33.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.009849858351004,0.0,20.99600114647569
+[15Jan2025 23:14:33.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.10690780210183,0.0,21.384041507907227
+[15Jan2025 23:14:33.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.2039791561151105,0.0,21.77207907306058
+[15Jan2025 23:14:33.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.301066299066633,0.0,22.16011319024119
+[15Jan2025 23:14:33.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.39816765206217,0.0,22.54814420424634
+[15Jan2025 23:14:33.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.495281794097025,0.0,22.936172425393693
+[15Jan2025 23:14:33.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.592407446266918,0.0,23.32419813296906
+[15Jan2025 23:14:33.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.689543457558102,0.0,23.712221578329718
+[15Jan2025 23:14:33.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.786688792058158,0.0,24.100242987697243
+[15Jan2025 23:14:33.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.8838425174459985,0.0,24.48826256467089
+[15Jan2025 23:14:33.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -5.98100379463267,0.0,24.876280492490196
+[15Jan2025 23:14:33.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.078171868438119,0.0,25.264296936070537
+[15Jan2025 23:14:33.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.176021572609329,0.0,25.652136489530676
+[15Jan2025 23:14:33.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.275760061836934,0.0,26.03945071663088
+[15Jan2025 23:14:33.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.378333848753414,0.0,26.4259271199993
+[15Jan2025 23:14:33.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.484471907623117,0.0,26.811292014347828
+[15Jan2025 23:14:33.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.5947205700770155,0.0,27.19531169675679
+[15Jan2025 23:14:33.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.709474631387309,0.0,27.577791451020857
+[15Jan2025 23:14:33.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.82900499686815,0.0,27.958572934202152
+[15Jan2025 23:14:33.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -6.953472763087291,0.0,28.337535229442665
+[15Jan2025 23:14:33.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -7.082959089690519,0.0,28.71458686397557
+[15Jan2025 23:14:33.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -7.217474383326078,0.0,29.089665744364197
+[15Jan2025 23:14:33.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -7.356973307814428,0.0,29.462735242542863
+[15Jan2025 23:14:33.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -7.501364676043693,0.0,29.83378185789502
+[15Jan2025 23:14:33.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -7.650526935263542,0.0,30.202809052557768
+[15Jan2025 23:14:33.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -7.804311792245585,0.0,30.56983672861236
+[15Jan2025 23:14:33.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -7.962550761633679,0.0,30.934898753350012
+[15Jan2025 23:14:33.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -8.125060960738892,0.0,31.298040482416013
+[15Jan2025 23:14:33.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -8.291650226134777,0.0,31.659316355551482
+[15Jan2025 23:14:33.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -8.462121640361659,0.0,32.018787568847756
+[15Jan2025 23:14:33.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -8.636277529592064,0.0,32.376519838214676
+[15Jan2025 23:14:33.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -8.813919729257293,0.0,32.73258327522433
+[15Jan2025 23:14:33.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -8.994849811935637,0.0,33.08705224929281
+[15Jan2025 23:14:33.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -9.178875774456515,0.0,33.44000116210009
+[15Jan2025 23:14:33.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -9.365811488607676,0.0,33.79150460082565
+[15Jan2025 23:14:33.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -9.5554762049087,0.0,34.141637461159235
+[15Jan2025 23:14:33.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -9.747697326520836,0.0,34.49047297929951
+[15Jan2025 23:14:33.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -9.942306416309975,0.0,34.83808506602145
+[15Jan2025 23:14:33.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -10.13914529454621,0.0,35.18454416747704
+[15Jan2025 23:14:33.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -10.338065037377476,0.0,35.52991767498713
+[15Jan2025 23:14:33.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -10.538921869843705,0.0,35.87427235021494
+[15Jan2025 23:14:33.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -10.741579893852759,0.0,36.217672354123465
+[15Jan2025 23:14:33.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -10.945910324707711,0.0,36.56017954429831
+[15Jan2025 23:14:33.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -11.151793998418043,0.0,36.90185161539773
+[15Jan2025 23:14:33.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -11.359117222642908,0.0,37.242744650036684
+[15Jan2025 23:14:33.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -11.567774440726282,0.0,37.58291118637817
+[15Jan2025 23:14:33.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -11.777667423716252,0.0,37.922400587479615
+[15Jan2025 23:14:33.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -11.98870135619643,0.0,38.261261482218856
+[15Jan2025 23:14:33.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -12.200790883805212,0.0,38.59953761423333
+[15Jan2025 23:14:33.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -12.41385598386961,0.0,38.93727045385913
+[15Jan2025 23:14:33.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -12.62782143223609,0.0,39.274499432912194
+[15Jan2025 23:14:33.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -12.842616327144015,0.0,39.611262159716034
+[15Jan2025 23:14:33.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -13.05817685328509,0.0,39.947592466859874
+[15Jan2025 23:14:33.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -13.27444238058439,0.0,40.2835229270886
+[15Jan2025 23:14:33.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -13.491931470437692,0.0,40.61869129433387
+[15Jan2025 23:14:33.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -13.711610365303557,0.0,40.952388684157654
+[15Jan2025 23:14:33.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -13.934216813682895,0.0,41.28402473586971
+[15Jan2025 23:14:33.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -14.16030119951995,0.0,41.61311620532206
+[15Jan2025 23:14:33.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -14.390256530901524,0.0,41.93927921299553
+[15Jan2025 23:14:33.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -14.62435032491743,0.0,42.262215466759926
+[15Jan2025 23:14:33.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -14.86274661527517,0.0,42.581703392071745
+[15Jan2025 23:14:33.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -15.105525103501634,0.0,42.89758908930651
+[15Jan2025 23:14:33.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -15.352697787801844,0.0,43.20977730873949
+[15Jan2025 23:14:33.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -15.604226005880719,0.0,43.51821980762895
+[15Jan2025 23:14:33.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -15.86002734315042,0.0,43.822912577354714
+[15Jan2025 23:14:33.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -16.119989384516316,0.0,44.12388456174517
+[15Jan2025 23:14:33.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -16.384433134232097,0.0,44.420664867695336
+[15Jan2025 23:14:33.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -16.653987581595175,0.0,44.71234918112748
+[15Jan2025 23:14:33.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -16.929463475398563,0.0,44.99764902858499
+[15Jan2025 23:14:33.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -17.211371330708346,0.0,45.27552314204854
+[15Jan2025 23:14:33.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -17.499987859505666,0.0,45.54515535726523
+[15Jan2025 23:14:33.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -17.795407678108234,0.0,45.80593542632562
+[15Jan2025 23:14:33.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -18.097591300436875,0.0,46.05742704526267
+[15Jan2025 23:14:33.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -18.40639473464489,0.0,46.29935629159536
+[15Jan2025 23:14:33.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -18.721849983716197,0.0,46.530925055577086
+[15Jan2025 23:14:33.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -19.043844162644405,0.0,46.75156697255716
+[15Jan2025 23:14:33.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -19.372162213759736,0.0,46.960912958973495
+[15Jan2025 23:14:33.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -19.70651949064097,0.0,47.158760571932135
+[15Jan2025 23:14:33.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -20.046584810246088,0.0,47.345055340930685
+[15Jan2025 23:14:33.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -20.392001088071083,0.0,47.519861178884526
+[15Jan2025 23:14:33.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -20.74240015469934,0.0,47.68333621260581
+[15Jan2025 23:14:33.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -21.097412242471137,0.0,47.83572153834757
+[15Jan2025 23:14:33.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -21.45667429251796,0.0,47.97732295225546
+[15Jan2025 23:14:33.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7744ms or 154 ticks behind
+[15Jan2025 23:14:33.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -19.604182470750573,0.0,38.36981567369355
+[15Jan2025 23:14:33.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -19.97091000472784,0.0,38.49093881324859
+[15Jan2025 23:14:33.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Afarfa) moved too quickly! -20.340838197756057,0.0,38.6031292876454
+[15Jan2025 23:15:57.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [We Just Want our Hat Back]
+[15Jan2025 23:16:05.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Sea Serpent
+[15Jan2025 23:16:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[15Jan2025 23:16:30.190] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=85, y=72, z=-171}
+[15Jan2025 23:16:32.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[15Jan2025 23:16:42.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Strength to xDogSaur]
+[15Jan2025 23:16:52.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Sea? Not a Problem]
+[15Jan2025 23:17:35.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[15Jan2025 23:17:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[15Jan2025 23:17:46.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed effect Strength from xDogSaur]
+[15Jan2025 23:18:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur drowned
+[15Jan2025 23:18:12.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[15Jan2025 23:18:12.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[15Jan2025 23:19:37.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Alex's Mobs]
+[15Jan2025 23:19:52.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Once Upon a Cave]
+[15Jan2025 23:19:59.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [The Andesite Age]
+[15Jan2025 23:20:26.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[15Jan2025 23:20:26.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[15Jan2025 23:20:50.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-692, y=64, z=610} BlockPos{x=-693, y=62, z=611}
+[15Jan2025 23:20:51.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-692, y=64, z=608} BlockPos{x=-693, y=62, z=607}
+[15Jan2025 23:20:51.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-692, y=64, z=608} BlockPos{x=-693, y=62, z=607}
+[15Jan2025 23:20:51.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-692, y=64, z=608} BlockPos{x=-693, y=62, z=607}

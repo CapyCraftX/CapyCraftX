@@ -63,7 +63,9 @@
     "criteria": {
       "minecraft:beach": "2025-01-15 22:06:56 +0000",
       "minecraft:river": "2025-01-15 20:53:16 +0000",
+      "minecraft:cold_ocean": "2025-01-15 23:15:36 +0000",
       "minecraft:forest": "2025-01-15 20:53:39 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-15 23:16:09 +0000",
       "minecraft:ocean": "2025-01-15 01:12:19 +0000",
       "minecraft:flower_forest": "2025-01-15 22:07:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-15 01:06:30 +0000",
@@ -98,7 +100,8 @@
       "minecraft:creeper": "2025-01-15 21:26:41 +0000",
       "quark:forgotten": "2025-01-15 21:49:50 +0000",
       "minecraft:cave_spider": "2025-01-15 21:34:51 +0000",
-      "minecraft:zombie": "2025-01-15 21:01:48 +0000"
+      "minecraft:zombie": "2025-01-15 21:01:48 +0000",
+      "minecraft:drowned": "2025-01-15 23:14:57 +0000"
     },
     "done": false
   },
@@ -111,6 +114,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-15 20:52:21 +0000",
+      "beef": "2025-01-15 23:06:21 +0000",
       "porkchop": "2025-01-15 21:11:22 +0000",
       "apple": "2025-01-15 20:58:02 +0000",
       "mutton": "2025-01-15 21:02:15 +0000",
@@ -145,6 +149,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-15 23:11:06 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-01-15 20:55:19 +0000"
@@ -154,6 +164,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-15 21:15:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-15 23:16:52 +0000"
     },
     "done": true
   },
@@ -180,6 +196,12 @@
       "bluemoon_short": "2025-01-15 21:19:20 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-01-15 23:09:52 +0000"
+    },
+    "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -217,6 +239,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-01-15 23:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-01-15 21:21:14 +0000"
@@ -239,9 +267,21 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-01-15 23:15:57 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-15 20:59:42 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-01-15 23:05:51 +0000"
     },
     "done": true
   },
