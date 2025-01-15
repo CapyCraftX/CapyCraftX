@@ -169,6 +169,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-15 22:21:05 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:all_weapons": {
     "criteria": {
       "bluemoon_short": "2025-01-15 21:19:20 +0000"
@@ -190,6 +196,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "orchard": "2025-01-15 20:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-15 22:19:22 +0000"
     },
     "done": true
   },
