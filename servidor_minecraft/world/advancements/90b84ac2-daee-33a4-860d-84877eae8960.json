@@ -86,6 +86,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-15 21:39:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-15 20:41:15 +0000"
@@ -131,6 +137,12 @@
       "minecraft:plains": "2025-01-15 20:54:37 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-15 21:40:11 +0000"
+    },
+    "done": true
   },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
