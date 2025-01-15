@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-15 23:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-15 20:59:54 +0000"
@@ -80,6 +86,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-15 20:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-15 23:33:50 +0000"
     },
     "done": true
   },
@@ -131,9 +143,21 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-01-15 23:22:42 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-01-15 22:46:00 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-01-15 23:22:46 +0000"
     },
     "done": true
   },
@@ -147,6 +171,7 @@
     "criteria": {
       "shrubland": "2025-01-15 20:46:58 +0000",
       "rocky_shrubland": "2025-01-15 20:44:46 +0000",
+      "erupting_inferno": "2025-01-15 23:33:55 +0000",
       "orchard": "2025-01-15 20:46:17 +0000",
       "redwood_forest": "2025-01-15 20:56:01 +0000",
       "dune_beach": "2025-01-15 20:46:35 +0000",
