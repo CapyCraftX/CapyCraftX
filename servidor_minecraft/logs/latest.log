@@ -2363,3 +2363,11 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Jan2025 21:50:30.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Night Vision to xDogSaur]
 [15Jan2025 21:50:56.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was killed by Necromancer's magic missile
 [15Jan2025 21:51:59.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was blown up by Creeper
+[15Jan2025 21:52:07.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Night Vision to xDogSaur]
+[15Jan2025 21:52:08.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[15Jan2025 21:52:46.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[15Jan2025 21:52:55.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Fishy Business]
+[15Jan2025 21:55:41.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [This Must be a Sign!]
+[15Jan2025 21:56:22.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [It Belongs in a Museum]
+[15Jan2025 21:59:09.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[15Jan2025 22:01:01.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Lorem Ipsum]

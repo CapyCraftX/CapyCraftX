@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-15 21:55:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-15 21:05:03 +0000"
@@ -26,6 +32,12 @@
   "soulsweapons:verglas": {
     "criteria": {
       "item": "2025-01-15 21:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-01-15 21:52:55 +0000"
     },
     "done": true
   },
@@ -136,6 +148,7 @@
       "minecraft:beach": "2025-01-15 20:44:31 +0000",
       "minecraft:river": "2025-01-15 20:45:01 +0000",
       "minecraft:forest": "2025-01-15 20:45:44 +0000",
+      "minecraft:windswept_savanna": "2025-01-15 21:59:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-15 20:42:12 +0000",
       "minecraft:plains": "2025-01-15 20:51:18 +0000"
     },

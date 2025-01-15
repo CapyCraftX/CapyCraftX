@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-15 22:01:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "orchard": "2025-01-15 20:51:34 +0000"
@@ -212,6 +218,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "orchard": "2025-01-15 20:51:34 +0000",
+      "redwood_forest": "2025-01-15 21:56:10 +0000",
       "dune_beach": "2025-01-15 20:51:37 +0000",
       "lavender_field": "2025-01-15 20:54:20 +0000",
       "prairie": "2025-01-15 20:56:12 +0000"
@@ -239,6 +246,12 @@
   "soulsweapons:bluemoon_tools": {
     "criteria": {
       "soulsweapons:bluemoon_shortsword": "2025-01-15 21:19:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-15 21:56:22 +0000"
     },
     "done": true
   },
