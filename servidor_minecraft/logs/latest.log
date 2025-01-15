@@ -2325,3 +2325,12 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Jan2025 21:21:20.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 0.10201914644994758,-10.694013589847941,1.1132066870934523
 [15Jan2025 21:21:25.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [False Water]
 [15Jan2025 21:21:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Night Vision to xDogSaur]
+[15Jan2025 21:21:42.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 0.3955468366950754,-12.487512062367097,0.089704941378983
+[15Jan2025 21:21:53.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Skeleton
+[15Jan2025 21:24:13.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Chest Slayer]
+[15Jan2025 21:24:50.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by Skeleton
+[15Jan2025 21:25:09.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by Skeleton
+[15Jan2025 21:25:15.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 1.4083655693342507,-11.144413168878383,0.8517010619967778
+[15Jan2025 21:26:08.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hot Stuff]
+[15Jan2025 21:27:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [False Water]
+[15Jan2025 21:30:42.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 6 [Golden Apple] to xDogSaur]

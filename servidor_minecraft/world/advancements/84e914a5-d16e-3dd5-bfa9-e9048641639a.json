@@ -93,6 +93,7 @@
       "minecraft:skeleton": "2025-01-15 01:11:00 +0000",
       "minecraft:vindicator": "2025-01-15 20:55:13 +0000",
       "minecraft:spider": "2025-01-15 21:17:13 +0000",
+      "minecraft:creeper": "2025-01-15 21:26:41 +0000",
       "minecraft:zombie": "2025-01-15 21:01:48 +0000"
     },
     "done": false
@@ -110,7 +111,8 @@
       "apple": "2025-01-15 20:58:02 +0000",
       "mutton": "2025-01-15 21:02:15 +0000",
       "golden_apple": "2025-01-15 01:11:39 +0000",
-      "melon_slice": "2025-01-15 20:55:21 +0000"
+      "melon_slice": "2025-01-15 20:55:21 +0000",
+      "cooked_salmon": "2025-01-15 21:29:59 +0000"
     },
     "done": false
   },
@@ -120,9 +122,21 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-15 21:24:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-01-15 21:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-15 21:26:08 +0000"
     },
     "done": true
   },

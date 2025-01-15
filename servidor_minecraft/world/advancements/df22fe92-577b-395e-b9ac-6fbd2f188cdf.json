@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-01-15 21:27:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-15 20:59:54 +0000"
@@ -93,6 +99,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-15 21:05:14 +0000",
       "minecraft:spider": "2025-01-15 20:47:55 +0000",
+      "minecraft:creeper": "2025-01-15 21:29:51 +0000",
       "minecraft:zombie": "2025-01-15 20:46:14 +0000"
     },
     "done": false
