@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-15 22:40:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-15 21:05:03 +0000"
@@ -50,6 +56,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-01-15 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-01-15 22:44:24 +0000"
     },
     "done": true
   },
@@ -98,6 +110,24 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-15 21:04:04 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-01-15 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-01-15 22:49:43 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-01-15 22:46:00 +0000"
     },
     "done": true
   },
@@ -191,6 +221,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-15 21:13:32 +0000",
       "cooked_mutton": "2025-01-15 21:06:24 +0000",
+      "cooked_beef": "2025-01-15 22:50:53 +0000",
       "beef": "2025-01-15 20:51:55 +0000",
       "bread": "2025-01-15 22:07:50 +0000",
       "melon_slice": "2025-01-15 21:41:43 +0000",
