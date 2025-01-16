@@ -5,78 +5,6 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-01-15 21:15:14 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-01-15 21:55:41 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-01-15 22:40:36 +0000"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2025-01-15 22:53:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-01-15 21:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-01-15 21:18:54 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:verglas": {
-    "criteria": {
-      "item": "2025-01-15 21:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "pufferfish": "2025-01-15 21:52:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-15 23:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-15 20:59:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-01-15 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-01-15 22:44:24 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-01-15 20:42:11 +0000"
@@ -89,124 +17,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-15 23:33:50 +0000"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
       "0": "2025-01-15 20:42:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-01-15 21:00:24 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "rocky_shrubland": "2025-01-15 20:44:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-15 22:20:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-01-15 22:05:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-15 21:04:04 +0000"
-    },
-    "done": true
-  },
-  "create:hand_crank_000": {
-    "criteria": {
-      "0": "2025-01-15 22:50:10 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_mixer": {
-    "criteria": {
-      "0": "2025-01-15 22:49:43 +0000"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2025-01-15 23:22:42 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-01-15 22:46:00 +0000"
-    },
-    "done": true
-  },
-  "create:contraption_actors": {
-    "criteria": {
-      "0": "2025-01-15 23:22:46 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:moonstone": {
-    "criteria": {
-      "item": "2025-01-15 21:42:10 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "shrubland": "2025-01-15 20:46:58 +0000",
-      "rocky_shrubland": "2025-01-15 20:44:46 +0000",
-      "erupting_inferno": "2025-01-15 23:33:55 +0000",
-      "orchard": "2025-01-15 20:46:17 +0000",
-      "redwood_forest": "2025-01-15 20:56:01 +0000",
-      "dune_beach": "2025-01-15 20:46:35 +0000",
-      "lavender_field": "2025-01-15 20:51:04 +0000",
-      "prairie": "2025-01-15 20:52:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-01-15 20:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-01-15 20:43:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-01-15 22:06:47 +0000",
-      "minecraft:skeleton": "2025-01-15 21:05:14 +0000",
-      "minecraft:spider": "2025-01-15 20:47:55 +0000",
-      "minecraft:creeper": "2025-01-15 21:29:51 +0000",
-      "minecraft:slime": "2025-01-15 21:42:31 +0000",
-      "minecraft:zombie": "2025-01-15 20:46:14 +0000",
-      "minecraft:zombie_villager": "2025-01-15 21:41:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-15 23:09:02 +0000"
     },
     "done": true
   },
@@ -216,15 +29,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "legendary_monsters:legendary_monsters_root": {
     "criteria": {
-      "minecraft:zombie": "2025-01-15 20:46:14 +0000"
+      "custom_test_name": "2025-01-15 20:42:11 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
+  "legendary_monsters:nether_root": {
     "criteria": {
-      "ex": "2025-01-15 20:44:08 +0000"
+      "custom_test_name": "2025-01-15 20:42:11 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-15 20:42:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-15 20:42:11 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-01-15 20:42:11 +0000"
     },
     "done": true
   },
@@ -242,15 +73,66 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "minecraft:story/root": {
     "criteria": {
-      "killed_fire_dragon": "2025-01-15 20:58:03 +0000"
+      "crafting_table": "2025-01-15 20:43:13 +0000"
     },
     "done": true
   },
-  "legendary_monsters:legendary_monsters_root": {
+  "soulsweapons:root": {
     "criteria": {
-      "custom_test_name": "2025-01-15 20:42:11 +0000"
+      "crafting_table": "2025-01-15 20:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-15 20:43:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-15 20:44:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_shrubland": "2025-01-15 20:44:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-01-15 20:46:58 +0000",
+      "rocky_shrubland": "2025-01-15 20:44:46 +0000",
+      "erupting_inferno": "2025-01-15 23:33:55 +0000",
+      "orchard": "2025-01-15 20:46:17 +0000",
+      "redwood_forest": "2025-01-15 20:56:01 +0000",
+      "dune_beach": "2025-01-15 20:46:35 +0000",
+      "lavender_field": "2025-01-15 20:51:04 +0000",
+      "prairie": "2025-01-15 20:52:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-01-15 23:46:31 +0000",
+      "minecraft:pillager": "2025-01-15 22:06:47 +0000",
+      "minecraft:skeleton": "2025-01-15 21:05:14 +0000",
+      "minecraft:spider": "2025-01-15 20:47:55 +0000",
+      "minecraft:creeper": "2025-01-15 21:29:51 +0000",
+      "minecraft:slime": "2025-01-15 21:42:31 +0000",
+      "minecraft:piglin": "2025-01-15 23:45:56 +0000",
+      "minecraft:zombie": "2025-01-15 20:46:14 +0000",
+      "minecraft:zombie_villager": "2025-01-15 21:41:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-15 20:46:14 +0000"
     },
     "done": true
   },
@@ -272,15 +154,63 @@
     },
     "done": true
   },
-  "legendary_monsters:nether_root": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "custom_test_name": "2025-01-15 20:42:11 +0000"
+      "killed_fire_dragon": "2025-01-15 20:58:03 +0000"
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "always": "2025-01-15 20:42:11 +0000"
+      "slept_in_bed": "2025-01-15 20:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-15 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-15 21:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-15 21:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-15 21:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-15 21:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-15 21:18:54 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-01-15 21:27:46 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2025-01-15 21:42:10 +0000"
     },
     "done": true
   },
@@ -290,27 +220,117 @@
     },
     "done": true
   },
-  "cataclysm:root": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "custom_test_name": "2025-01-15 20:42:11 +0000"
+      "pufferfish": "2025-01-15 21:52:55 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:grant_patchouli": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "tick": "2025-01-15 20:42:11 +0000"
+      "bastion": "2025-01-15 21:55:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "crafting_table": "2025-01-15 20:43:13 +0000"
+      "killed_by": "2025-01-15 22:05:31 +0000"
     },
     "done": true
   },
-  "soulsweapons:root": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "crafting_table": "2025-01-15 20:43:13 +0000"
+      "obsidian": "2025-01-15 22:20:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-15 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-15 22:40:36 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-01-15 22:44:24 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-01-15 22:46:00 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-01-15 22:49:43 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-01-15 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-01-15 22:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-15 23:09:02 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-01-15 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-01-15 23:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-15 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-15 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-15 23:46:08 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-15 23:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-15 23:46:35 +0000"
     },
     "done": true
   },

@@ -61,6 +61,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-16 00:00:10 +0000",
       "minecraft:beach": "2025-01-15 22:06:56 +0000",
       "minecraft:river": "2025-01-15 20:53:16 +0000",
       "minecraft:cold_ocean": "2025-01-15 23:15:36 +0000",
@@ -131,157 +132,9 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-01-15 21:24:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-01-15 21:08:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-01-15 21:26:08 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-01-15 23:11:06 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-01-15 20:55:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-01-15 21:15:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-15 23:16:52 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:verglas": {
-    "criteria": {
-      "item": "2025-01-15 21:21:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-15 20:52:34 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-01-15 22:21:05 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "bluemoon_short": "2025-01-15 21:19:20 +0000"
-    },
-    "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2025-01-15 23:09:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-15 20:50:56 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-01-15 22:01:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "orchard": "2025-01-15 20:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-15 22:19:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-01-15 21:02:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-15 20:55:26 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-01-15 23:10:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-01-15 21:21:14 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:moonstone": {
-    "criteria": {
-      "item": "2025-01-15 21:15:23 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "orchard": "2025-01-15 20:51:34 +0000",
-      "redwood_forest": "2025-01-15 21:56:10 +0000",
-      "dune_beach": "2025-01-15 20:51:37 +0000",
-      "lavender_field": "2025-01-15 20:54:20 +0000",
-      "prairie": "2025-01-15 20:56:12 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2025-01-15 23:15:57 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-01-15 20:59:42 +0000"
-    },
-    "done": true
-  },
-  "create:millstone": {
-    "criteria": {
-      "0": "2025-01-15 23:05:51 +0000"
     },
     "done": true
   },
@@ -291,33 +144,65 @@
     },
     "done": true
   },
-  "quark:get_forgotten_hat": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "get_forgotten_hat": "2025-01-15 21:49:53 +0000"
+      "orchard": "2025-01-15 20:51:34 +0000"
     },
     "done": true
   },
-  "soulsweapons:bluemoon_tools": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "soulsweapons:bluemoon_shortsword": "2025-01-15 21:19:20 +0000"
+      "rocky_shrubland": "2025-01-16 00:02:13 +0000",
+      "maple_woods": "2025-01-16 00:02:14 +0000",
+      "orchard": "2025-01-15 20:51:34 +0000",
+      "coniferous_forest": "2025-01-16 00:03:30 +0000",
+      "redwood_forest": "2025-01-15 21:56:10 +0000",
+      "dune_beach": "2025-01-15 20:51:37 +0000",
+      "seasonal_forest": "2025-01-16 00:02:56 +0000",
+      "lavender_field": "2025-01-15 20:54:20 +0000",
+      "prairie": "2025-01-15 20:56:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-15 20:52:34 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "killed_fire_dragon": "2025-01-15 22:07:11 +0000"
+      "illager_camp": "2025-01-15 20:55:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-15 20:55:26 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "cave_tablet": "2025-01-15 21:56:22 +0000"
+      "shot_crossbow": "2025-01-15 20:59:15 +0000"
     },
     "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-15 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-15 20:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-15 21:02:37 +0000"
     },
     "done": true
   },
@@ -333,9 +218,147 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "shot_crossbow": "2025-01-15 20:59:15 +0000"
+      "iron_chestplate": "2025-01-15 21:08:59 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2025-01-15 21:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-15 21:15:28 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_short": "2025-01-15 21:19:20 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_shortsword": "2025-01-15 21:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-15 21:21:14 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-01-15 21:21:25 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-15 21:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-15 21:26:08 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-01-15 21:49:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-15 21:56:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-15 22:01:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-15 22:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-15 22:19:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-15 22:21:05 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-01-15 23:05:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-01-15 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-01-15 23:10:06 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-15 23:11:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-01-15 23:15:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-15 23:16:52 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-16 00:03:31 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-16 00:03:31 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-01-16 00:04:12 +0000"
     },
     "done": true
   },

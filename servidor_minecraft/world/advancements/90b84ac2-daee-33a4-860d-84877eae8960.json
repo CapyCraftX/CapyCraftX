@@ -99,6 +99,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-15 20:54:51 +0000",
+      "minecraft:blaze": "2025-01-15 23:44:33 +0000",
       "minecraft:skeleton": "2025-01-15 20:44:34 +0000",
       "minecraft:spider": "2025-01-15 21:07:06 +0000",
       "minecraft:creeper": "2025-01-15 21:14:13 +0000",
@@ -354,9 +355,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-15 23:45:53 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-01-15 22:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-15 23:43:29 +0000"
     },
     "done": true
   },
